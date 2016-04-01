@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<potion>
+	<!-- Content created by u/olirant -->
+	<titles>
+		<title>Potion</title>
+		<title>Elixir</title>
+		<title>Draught</title>
+		<title>Vial</title>
+		<title>Philter</title>
+		<title>Tonic</title>
+		<title>Brew</title>
+		<title>Ichor</title>
+		<title>Juice</title>
+		<title>Concoction</title>
+	</titles>
+	<effects>
+		<effect>Healing. It instantly regenerates some health when drank.
+		</effect>
+		<effect>Vigor. Gives temporary health when drank.</effect>
+		<effect>Vitality. It slowly regenerates health over a period of some
+			hours.
+		</effect>
+		<effect>Might. It gives a bonus to attack rolls after drinking.
+		</effect>
+		<effect>Courage. Gives immunity to fear and some temporary
+			inspiration.
+		</effect>
+		<effect>Giant Strength. It gives the user much more strength.
+		</effect>
+		<effect>Flame Resistance. It gives resistance to fire damage.
+		</effect>
+		<effect>Cold Resistance. It gives resistance to cold damage.</effect>
+		<effect>Necro Resistance. Gives resistance to necrotic damage.
+		</effect>
+		<effect>Radiant Resistance. Gives resistance to radiant damage.
+		</effect>
+		<effect>Stoneskin. Gives resistance to martial damage.</effect>
+		<effect>Acid Resistance. Gives resistance to acid.</effect>
+		<effect>Lightning Resistance. Gives resistance to lightning damage.
+		</effect>
+		<effect>Succubus Charm. Makes the drinker irresistible to nearby
+			people.
+		</effect>
+		<effect>Shielding. Gives the user a magical shield of energy.
+		</effect>
+		<effect>Flame Breath. Gives the user fire breath for a short time.
+		</effect>
+		<effect>Growth. Makes the user double in size.</effect>
+		<effect>Shrinking. Makes the user half in size.</effect>
+		<effect>Comprehension. Lets the user understand all languages.
+		</effect>
+		<effect>Fertility. Makes the user very fertile, almost certain to
+			make
+			a baby under its effects!
+		</effect>
+		<effect>Intimidation. Gives the user a huge booming voice that
+			terrifies those around.
+		</effect>
+		<effect>Luck. It gives the user a temporary boost to luck.</effect>
+		<effect>Mana. Gives the user more magical power to cast with.
+		</effect>
+		<effect>Arcane. Gives the user more powerful spells.</effect>
+		<effect>Animal form. Makes the user turn into a random animal.
+		</effect>
+		<effect>Dreams. Makes the user get lost in a hallucinatory dream
+			world
+			of their perfect dream.
+		</effect>
+		<effect>Nightmares. Makes the user get lost in a hallucinatory dream
+			world of their worst nightmares.
+		</effect>
+		<effect>Stamina. Gives the user more stamina and constitution.
+		</effect>
+		<effect>Fleet foot. Makes the user have more speed.</effect>
+		<effect>Knowledge. Increases the users intelligence temporarily.
+		</effect>
+		<effect>The Bard. Increases the users temporarily.</effect>
+		<effect>Disguise. Changes the users form to a disguised form of any
+			race and appearance.
+		</effect>
+		<effect>Feast. Removes all hunger and thirst from the target.
+		</effect>
+		<effect>Youth. Makes the user grow some years younger.</effect>
+		<effect>Age. Makes the user grow some years older.</effect>
+		<effect>Furnace. Makes the user radiate with a damaging aura.
+		</effect>
+		<effect>Eagle Sight. Gives the user strong vision and a bonus to
+			perception.
+		</effect>
+		<effect>Health. Cures all diseases and illnesses.</effect>
+		<effect>Invulnerability. Freezes the user in stasis that makes them
+		</effect>
+		<effect>immune to damage but they cannot move or act.</effect>
+		<effect>Riddle me gone. Gives the user the cure to a single riddle.
+		</effect>
+		<effect>Horrifying appearance. Makes the user look more ugly for a
+			time.
+		</effect>
+		<effect>Beautiful appearance. Makes the user appear more attractive
+			for a time.
+		</effect>
+		<effect>Swordsmanship. Makes the user more effective and versatile
+			with a blade.
+		</effect>
+		<effect>Bowmanship. Makes the user more effective with a bow or
+			ranged
+			weapon.
+		</effect>
+		<effect>Nymph Breath. Gives water breathing.</effect>
+		<effect>Midas Touch. Makes the user turn things to gold.</effect>
+		<effect>Berserker. Makes the user rage with great strength.</effect>
+		<effect>Utter Hatred. Makes the user have bonuses against a
+			particular
+			type of enemy.
+		</effect>
+		<effect>Oracle. Lets the user divinate the future.</effect>
+		<effect>Demonic Leech. Heals a portion of all damage the user deals.
+		</effect>
+		<effect>Fey Nature. Lets the user become one with animals and nature
+			around them.
+		</effect>
+		<effect>Tracelessness. Makes the user very hard to follow.</effect>
+		<effect>Gracefulness. Makes the user have a better acrobatics skill.
+		</effect>
+		<effect>Goblin Climb. Gives the user a bonus to climbing.</effect>
+		<effect>Dead Ringer. Makes the user appear completely dead to all
+			magic.
+		</effect>
+		<effect>One Leafed Clover. Gives the user worst luck.</effect>
+		<effect>Possession. Lets the user gain control of a nearby creature,
+			their body comatosed while they do.
+		</effect>
+		<effect>Owls Wake. Makes the user need no sleep for a time.</effect>
+		<effect>Hawks Flight. Lets the user fly.</effect>
+		<effect>Peace. Makes the user very calm and unable to harm others.
+		</effect>
+		<effect>Rejuvination. Heals a single scar or bad injury on the user
+			such as a missing arm.
+		</effect>
+		<effect>Sphinx's Truth. Makes the user tell the truth.</effect>
+		<effect>Serpent Tongue. Makes the user only able to lie.</effect>
+		<effect>Navigation. Makes the user unable to get lost and find where
+			they need.
+		</effect>
+		<effect>Hook Horror. The users hands become sharp weaponized blades.
+		</effect>
+		<effect>Schaffensfreude. Makes the enemies take damage as they deal
+			it
+			to the user.
+		</effect>
+		<effect>Invisibility. Makes the user invisible.</effect>
+		<effect>Wild magic. Taps into wild magic making an absolutely random
+			thing happen.
+		</effect>
+		<effect>Fame. Makes the user more famous.</effect>
+		<effect>Goats Trek. Makes the user immune to the toils of long
+			travels
+			and bad weather.
+		</effect>
+		<effect>Gargoyle Toughness. Increases the users constitution.
+		</effect>
+		<effect>Atomic Clock. Lets the user know the exact time and date.
+		</effect>
+		<effect>Transmutation. Lets the user have the ability to change
+			somethings properties.
+		</effect>
+		<effect>Iron Skin. Turns the users skin to metal giving them many
+			resistances.
+		</effect>
+		<effect>Sex Change. Changes the users gender.</effect>
+		<effect>Race Change. Changes the users race.</effect>
+		<effect>Musical Breath. Makes the user say everything in song, and
+			fey
+			music follows them in the air.
+		</effect>
+		<effect>Utter Understanding. Makes the user know very intimately
+			about
+			one exact thing. Random, or they can decide.
+		</effect>
+		<effect>Split Form. The user turns into two or three tiny versions of
+			themselves and controls them all.
+		</effect>
+		<effect>Flavour. Makes anything and everything taste amazing!
+		</effect>
+		<effect>Glimmer. Makes the user and its gear instantly clean and as
+			good looking as possible.
+		</effect>
+		<effect>Love. Makes the user and someone else fall in love.</effect>
+		<effect>Poison. Poisons the user, weakening them.</effect>
+		<effect>Rebirth. Resurrects the user if they die soon after drinking.
+		</effect>
+		<effect>Elemental form. Turns the user to an elemental form relevant
+			to their personality.
+		</effect>
+		<effect>True form. Turns the user into a familiar like creature
+			similar to their personality.
+		</effect>
+		<effect>Gods Touch. Gives the user a holy connection to their god or
+			fiendish deity.
+		</effect>
+		<effect>Antidepressant. Does what it says on the tin.</effect>
+		<effect>Ghostly Form. Makes the user intangible and able to phase
+			through objects.
+		</effect>
+		<effect>Artisans Skill. Gives the user skill in a particular art
+			temporarily.
+		</effect>
+		<effect>Godly form. Improves all stats.</effect>
+		<effect>Bless Weapon. Makes the users weapons do more damage.
+		</effect>
+		<effect>Euphoria. Makes the user feel amazing and trip out.</effect>
+		<effect>Bodyguard. Creates a spectral bodyguard for a short time who
+			obeys orders.
+		</effect>
+		<effect>Babelfish. Lets the user speak any language but not
+			understand
+			it.
+		</effect>
+		<effect>Preservation. Stops whatever its poured on from rotting or
+			degrading.
+		</effect>
+		<effect>Fear. Makes the user terrified.</effect>
+		<effect>Night vision. Gives the ability to see in the dark.</effect>
+		<effect>Tracking. Lets the user track an enemy.</effect>
+		<effect>Cure-all. Cures any status effects.</effect>
+	</effects>
+	<potencies>
+		<potentcy>Regular with a slight side effect.</potentcy>
+		<potentcy>Regular with no side effect.</potentcy>
+		<potentcy>Regular with a strong side effect.</potentcy>
+		<potentcy>Minor with a strong side effect.</potentcy>
+		<potentcy>Minor with a slight side effect.</potentcy>
+		<potentcy>Major with a strong side effect.</potentcy>
+		<potentcy>Major with a small side effect.</potentcy>
+		<potentcy>A poison. Almost no positive affect all side effect.
+		</potentcy>
+		<potentcy>Temporary but strong and wears off quickly.</potentcy>
+		<potentcy>Seemingly permanent.</potentcy>
+	</potencies>
+	<side-effects>
+		<side-effect>Nothing bad at all!</side-effect>
+		<side-effect>Puts the user to sleep.</side-effect>
+		<side-effect>Rapid hair growth all over the body.</side-effect>
+		<side-effect>Bleeding from the eyes.</side-effect>
+		<side-effect>Vivid hallucinations.</side-effect>
+		<side-effect>Flashbacks of your own eventual demise.</side-effect>
+		<side-effect>The skin to crack and appear distorted.</side-effect>
+		<side-effect>Spots to grow on the skin.</side-effect>
+		<side-effect>Diarrhea.</side-effect>
+		<side-effect>Vomiting.</side-effect>
+		<side-effect>Blurred Vision.</side-effect>
+		<side-effect>Blindness.</side-effect>
+		<side-effect>Deafness.</side-effect>
+		<side-effect>Muting.</side-effect>
+		<side-effect>Health loss via rapid bleeding.</side-effect>
+		<side-effect>A sudden horrific accent.</side-effect>
+		<side-effect>The irresistible urge to dance.</side-effect>
+		<side-effect>The hearing of demons.</side-effect>
+		<side-effect>Loss of balance.</side-effect>
+		<side-effect>Everything tasting like dirt for some time.
+		</side-effect>
+		<side-effect>Excessive drooling.</side-effect>
+		<side-effect>Loss of intelligence.</side-effect>
+		<side-effect>Loss of strength.</side-effect>
+		<side-effect>Loss of speed.</side-effect>
+		<side-effect>Loss of charisma.</side-effect>
+		<side-effect>Genuine happiness.</side-effect>
+		<side-effect>Hunger.</side-effect>
+		<side-effect>Thirst.</side-effect>
+		<side-effect>Trouble breathing.</side-effect>
+		<side-effect>Sudden Moustache.</side-effect>
+		<side-effect>Poisoning.</side-effect>
+		<side-effect>Petrification.</side-effect>
+		<side-effect>Stunning.</side-effect>
+		<side-effect>Immobilisation.</side-effect>
+		<side-effect>Increased libido.</side-effect>
+		<side-effect>Fidgeting.</side-effect>
+		<side-effect>Itchiness.</side-effect>
+		<side-effect>Rashes.</side-effect>
+		<side-effect>Attracts bears.</side-effect>
+		<side-effect>Magically covers in dirt.</side-effect>
+		<side-effect>Horrifying stench.</side-effect>
+		<side-effect>Baldness.</side-effect>
+		<side-effect>Swelling.</side-effect>
+		<side-effect>Loss of a random item.</side-effect>
+		<side-effect>Curses.</side-effect>
+		<side-effect>Damage.</side-effect>
+		<side-effect>Weakness to a magical damage type.</side-effect>
+		<side-effect>Weakness to physical damage.</side-effect>
+		<side-effect>Feelings of Guilt</side-effect>
+		<side-effect>Feelings of Anxiety.</side-effect>
+		<side-effect>Feelings of Shame.</side-effect>
+		<side-effect>Sneezing.</side-effect>
+		<side-effect>Uncontrollable crying.</side-effect>
+		<side-effect>Need to sing heroic music.</side-effect>
+		<side-effect>Urge to hug.</side-effect>
+		<side-effect>Kleptomania.</side-effect>
+		<side-effect>Burping.</side-effect>
+		<side-effect>Loss of smell.</side-effect>
+		<side-effect>Insomnia.</side-effect>
+		<side-effect>Paranoia.</side-effect>
+		<side-effect>Bad luck.</side-effect>
+		<side-effect>Summons imps that want to kill you.</side-effect>
+		<side-effect>Summons angry bees.</side-effect>
+		<side-effect>Fear of something.</side-effect>
+		<side-effect>Temporary madness.</side-effect>
+		<side-effect>Relaxation.</side-effect>
+		<side-effect>Appreciation of colours and sound.</side-effect>
+		<side-effect>Tripping the hell out.</side-effect>
+		<side-effect>Painful lust.</side-effect>
+		<side-effect>Light headedness.</side-effect>
+		<side-effect>Increased confidence.</side-effect>
+		<side-effect>Recklessness.</side-effect>
+		<side-effect>Rage.</side-effect>
+		<side-effect>Sadness.</side-effect>
+		<side-effect>Dizziness.</side-effect>
+		<side-effect>Pain.</side-effect>
+		<side-effect>Slight possession.</side-effect>
+		<side-effect>Allergic reaction to your favourite food.</side-effect>
+		<side-effect>Strong believe you’re someone else.</side-effect>
+		<side-effect>Severe debt.</side-effect>
+		<side-effect>Grumpiness.</side-effect>
+		<side-effect>Muscle spasms.</side-effect>
+		<side-effect>A bloated feeling.</side-effect>
+		<side-effect>A cold.</side-effect>
+		<side-effect>A fever.</side-effect>
+		<side-effect>Becoming strangely light.</side-effect>
+		<side-effect>Weakness.</side-effect>
+		<side-effect>The urge to fight.</side-effect>
+		<side-effect>The need to make friends.</side-effect>
+		<side-effect>Nausea.</side-effect>
+		<side-effect>Mood swings.</side-effect>
+		<side-effect>Addiction.</side-effect>
+		<side-effect>Need for booze.</side-effect>
+		<side-effect>Drunkeness.</side-effect>
+		<side-effect>Coughing.</side-effect>
+		<side-effect>Uncontrollable babbling.</side-effect>
+		<side-effect>Slight aches.</side-effect>
+		<side-effect>A bad taste for some time.</side-effect>
+		<side-effect>Giddiness.</side-effect>
+		<side-effect>Laughter.</side-effect>
+	</side-effects>
+	<containers>
+		<container>A conical smooth glass bottle.</container>
+		<container>A square glass bottle.</container>
+		<container>A not quite watertight leather waterskin.</container>
+		<container>A stone flask.</container>
+		<container>A metal thermos.</container>
+		<container>A glass syringe.</container>
+		<container>A small medical vial.</container>
+		<container>A small shot sized bottle.</container>
+		<container>A large metal bottle.</container>
+		<container>A capped horn.</container>
+		<container>An ornate very decorated glass bottle.</container>
+		<container>A geometric diamond shaped bottle.</container>
+		<container>A translucent long wine bottle.</container>
+		<container>A translucent beer bottle.</container>
+		<container>A leather pouch.</container>
+		<container>An inhaler like spray bottle.</container>
+		<container>A coloured bottle.</container>
+		<container>A bone flask.</container>
+		<container>A small metal vial.</container>
+		<container>A large bottle that can be swigged several times.
+		</container>
+	</containers>
+	<appearances>
+		<appearance>Clear.</appearance>
+		<appearance>Blue.</appearance>
+		<appearance>Green.</appearance>
+		<appearance>Red.</appearance>
+		<appearance>Pale Green.</appearance>
+		<appearance>Pink.</appearance>
+		<appearance>Light Blue.</appearance>
+		<appearance>White.</appearance>
+		<appearance>Black.</appearance>
+		<appearance>Dark Grey.</appearance>
+		<appearance>Light grey.</appearance>
+		<appearance>Yellow.</appearance>
+		<appearance>Orange.</appearance>
+		<appearance>Gold.</appearance>
+		<appearance>Orange.</appearance>
+		<appearance>Bronze.</appearance>
+		<appearance>Metallic.</appearance>
+		<appearance>Purple.</appearance>
+		<appearance>Brown.</appearance>
+		<appearance>Dark Red.</appearance>
+	</appearances>
+	<appears-with>
+		<with>Flecks of colour.</with>
+		<with>Swirls of colour.</with>
+		<with>Fizzing bubbles.</with>
+		<with>Bubbles suspended in it.</with>
+		<with>Some kind of bone floating in it.</with>
+		<with>Leaves and flowers in it.</with>
+		<with>Two separating liquid.</with>
+		<with>A bright glow.</with>
+		<with>A soft glow.</with>
+		<with>Stripes of colour.</with>
+		<with>Translucency.</with>
+		<with>A cloudy murkiness.</with>
+		<with>Blood within it.</with>
+		<with>Dirt floating in it.</with>
+		<with>Chunks of metal in it.</with>
+		<with>Some type of gore from a slain creature.</with>
+		<with>Steam coming from it.</with>
+		<with>A face in the liquid.</with>
+		<with>Constantly moving and shifting liquid.</with>
+		<with>A constant heat.</with>
+	</appears-with>
+	<textures>
+		<texture>Thick and sludgy.</texture>
+		<texture>Thin and watery.</texture>
+		<texture>Airy and bubbly.</texture>
+		<texture>Slimey.</texture>
+		<texture>Almost solid.</texture>
+		<texture>Oily.</texture>
+		<texture>Chunky.</texture>
+		<texture>Silty.</texture>
+		<texture>Milky.</texture>
+		<texture>Almost gaseous.</texture>
+	</textures>
+	<smells-tastes>
+		<smell-taste>Nothing at all.</smell-taste>
+		<smell-taste>Sulphur.</smell-taste>
+		<smell-taste>Fresh air.</smell-taste>
+		<smell-taste>Baking cookies.</smell-taste>
+		<smell-taste>Flowers.</smell-taste>
+		<smell-taste>Rotting meat.</smell-taste>
+		<smell-taste>Egg.</smell-taste>
+		<smell-taste>Rotten eggs.</smell-taste>
+		<smell-taste>Fresh bread.</smell-taste>
+		<smell-taste>Blood.</smell-taste>
+		<smell-taste>Home.</smell-taste>
+		<smell-taste>Vomit.</smell-taste>
+		<smell-taste>Garlic.</smell-taste>
+		<smell-taste>Fruit.</smell-taste>
+		<smell-taste>Chocolate.</smell-taste>
+		<smell-taste>Beer.</smell-taste>
+		<smell-taste>Smoke.</smell-taste>
+		<smell-taste>Wood.</smell-taste>
+		<smell-taste>Death.</smell-taste>
+		<smell-taste>Orc.</smell-taste>
+		<smell-taste>Wet dog.</smell-taste>
+		<smell-taste>Wet goblin.</smell-taste>
+		<smell-taste>Perfume.</smell-taste>
+		<smell-taste>Cheap perfume.</smell-taste>
+		<smell-taste>Musk.</smell-taste>
+		<smell-taste>Garbage.</smell-taste>
+		<smell-taste>Sand.</smell-taste>
+		<smell-taste>The Forest.</smell-taste>
+		<smell-taste>Nuts.</smell-taste>
+		<smell-taste>Acidic.</smell-taste>
+		<smell-taste>Spicy.</smell-taste>
+		<smell-taste>Minty.</smell-taste>
+		<smell-taste>Of chemicals.</smell-taste>
+		<smell-taste>Dirt.</smell-taste>
+		<smell-taste>Of something bad flavoured to taste better.
+		</smell-taste>
+		<smell-taste>Alcohol.</smell-taste>
+		<smell-taste>Sugar.</smell-taste>
+		<smell-taste>A damp cave.</smell-taste>
+		<smell-taste>Strange.</smell-taste>
+		<smell-taste>Indescribable but nice.</smell-taste>
+		<smell-taste>Indescribable but horrid.</smell-taste>
+		<smell-taste>Rain.</smell-taste>
+		<smell-taste>Medical.</smell-taste>
+		<smell-taste>Bacon.</smell-taste>
+		<smell-taste>Coffee.</smell-taste>
+		<smell-taste>Cut grass.</smell-taste>
+		<smell-taste>Vanilla.</smell-taste>
+		<smell-taste>The sea.</smell-taste>
+		<smell-taste>Roast meat.</smell-taste>
+		<smell-taste>Festive.</smell-taste>
+		<smell-taste>Lavender.</smell-taste>
+		<smell-taste>Lilac and Gooseberries.</smell-taste>
+		<smell-taste>A fresh baby.</smell-taste>
+		<smell-taste>A new car.</smell-taste>
+		<smell-taste>Cirtrus.</smell-taste>
+		<smell-taste>Leather.</smell-taste>
+		<smell-taste>Metal.</smell-taste>
+		<smell-taste>A forge.</smell-taste>
+		<smell-taste>Fresh Cake.</smell-taste>
+		<smell-taste>Paint.</smell-taste>
+		<smell-taste>Wine.</smell-taste>
+		<smell-taste>Polish.</smell-taste>
+		<smell-taste>Cheese.</smell-taste>
+		<smell-taste>Fish.</smell-taste>
+		<smell-taste>Compost.</smell-taste>
+		<smell-taste>The sewers.</smell-taste>
+		<smell-taste>Apples.</smell-taste>
+		<smell-taste>Holy oils.</smell-taste>
+		<smell-taste>Massage oil.</smell-taste>
+		<smell-taste>A brothel.</smell-taste>
+		<smell-taste>Old fruit.</smell-taste>
+		<smell-taste>Roses.</smell-taste>
+		<smell-taste>Something that stirs memories.</smell-taste>
+		<smell-taste>Gingerbread.</smell-taste>
+		<smell-taste>Cinnamon.</smell-taste>
+		<smell-taste>Candy.</smell-taste>
+		<smell-taste>Fumes.</smell-taste>
+		<smell-taste>Bark.</smell-taste>
+		<smell-taste>Chicken.</smell-taste>
+		<smell-taste>Beef.</smell-taste>
+		<smell-taste>Human Flesh.</smell-taste>
+		<smell-taste>Gunpowder.</smell-taste>
+		<smell-taste>A storm.</smell-taste>
+		<smell-taste>Success.</smell-taste>
+		<smell-taste>Gold.</smell-taste>
+		<smell-taste>Mayonnaise.</smell-taste>
+		<smell-taste>Barbeque.</smell-taste>
+		<smell-taste>Salt.</smell-taste>
+		<smell-taste>Pepper.</smell-taste>
+		<smell-taste>Aromatic spices.</smell-taste>
+		<smell-taste>Fruit punch.</smell-taste>
+		<smell-taste>Water.</smell-taste>
+		<smell-taste>Fresh water.</smell-taste>
+		<smell-taste>Stagnant water.</smell-taste>
+		<smell-taste>Mud.</smell-taste>
+		<smell-taste>A colour.</smell-taste>
+		<smell-taste>Music.</smell-taste>
+		<smell-taste>The end of the world.</smell-taste>
+		<smell-taste>Magically the worst thing to you.</smell-taste>
+		<smell-taste>Magically the most desirable thing to you.</smell-taste>
+	</smells-tastes>
+	<labels>
+		<label>Its name and title in bold letters.</label>
+		<label>Its description in ornate elvish.</label>
+		<label>Its description in elvish with a relevant mythic story.
+		</label>
+		<label>Its description on dwarven.</label>
+		<label>Dwarven runes.</label>
+		<label>Its description in gnomish.</label>
+		<label>Gnomish diagrams for its use.</label>
+		<label>The words USE ONLY IN EMERGANCIES scrawled on it.</label>
+		<label>A mass produced label claiming the company has no fault for
+			any
+			side effects.
+		</label>
+		<label>A mass produced label saying it’s a new flavour.</label>
+		<label>Very tiny print describing how the potion was made in great
+			detail, around 1000 words.
+		</label>
+		<label>Its name in Bold words in Giant.</label>
+		<label>Is scrawled off.</label>
+		<label>Has faded beyond reading.</label>
+		<label>Doesn’t seem to have one.</label>
+		<label>Its description and a random fact.</label>
+		<label>Its description and a small complim</label>
+		ent to make your day better.
+		<label>Its description and a joke.</label>
+		<label>Its description in infernal.</label>
+		<label>Its description in some ancient language.</label>
+		<label>All in some kind of symbols.</label>
+		<label>All in some kind of raised symbols for the blind to read.
+		</label>
+		<label>Its description in elemental languages.</label>
+		<label>Its name and flavour.</label>
+		<label>Its name with a warning about side effects.</label>
+		<label>Its name and its recommended buying price.</label>
+		<label>Bloody prints all over it.</label>
+		<label>Name engraved into the container.</label>
+		<label>Its name glowing with minor magic.</label>
+		<label>A cartoony mascot.</label>
+		<label>A warning of an ancient curse.</label>
+		<label>Its name and description in invisible ink.</label>
+		<label>Its description in draconic.</label>
+		<label>Several different names and descriptions plastered over
+			eachother.
+		</label>
+		<label>A name of a completely different potion to what it does.
+		</label>
+		<label>A title describing the exact opposite.</label>
+		<label>A money back guarantee.</label>
+		<label>A coupon for a free potion.</label>
+		<label>A living face looking around.</label>
+		<label>Its name and recipe for other alchemists.</label>
+		<label>A heartfelt love letter for someone.</label>
+		<label>A heartfelt hate letter for someone.</label>
+		<label>A persons name. The potion wont work unless asked by its name
+			to do so.
+		</label>
+		<label>A strange prophecy.</label>
+		<label>A small doodle.</label>
+		<label>A note saying DO NOT DRINK.</label>
+		<label>A passive aggressive note about other people drinking potions
+			that don’t belong to them.
+		</label>
+		<label>Brightly glowing letters.</label>
+		<label>That plays a very quiet sing song till the bottle is empty.
+		</label>
+		<label>Ornate and beautiful designs.</label>
+		<label>Very practical designs.</label>
+		<label>Holy symbols.</label>
+		<label>Unholy symbols.</label>
+		<label>Fey symbols and sylvan writing.</label>
+		<label>A riddle, the lid not opening unless the riddle is solved.
+		</label>
+		<label>Saying its designed for babies.</label>
+		<label>Saying that it shouldn’t be drank by anyone under 18.</label>
+		<label>A note saying its illegal contraband being confiscated.
+		</label>
+		<label>A note saying the alchemist thinks it is its greatest work.
+		</label>
+		<label>A note saying the alchemist is sorry for ever creating it.
+		</label>
+		<label>A note saying that it never should have been made and copius
+			blood stains over the bottle.
+		</label>
+		<label>It says you’re being watched. When the person checks it
+			instead
+			says Just Kidding.
+		</label>
+		<label>Its description in Druidic.</label>
+		<label>Its description in orcish</label>
+		<label>Its description in goblin.</label>
+		<label>Its description in Halfling.</label>
+		<label>Its description in Celestial.</label>
+		<label>Its description in Undercommon.</label>
+		<label>Its description in Deep speech.</label>
+		<label>Its description in strange arcane symbols.</label>
+		<label>A map of where the potion was made.</label>
+		<label>A small puzzle for kids.</label>
+		<label>A list of ingredients in their chemical forms.</label>
+		<label>A list of possible side effects as long as the bottle is.
+		</label>
+		<label>A red X.</label>
+		<label>A sad face.</label>
+		<label>An angry face.</label>
+		<label>A happy face.</label>
+		<label>A healing symbol.</label>
+		<label>A cheesy pun potion name.</label>
+		<label>Growing with vines.</label>
+		<label>Growing with flowers.</label>
+		<label>Growing with crystals.</label>
+		<label>Growing with rock.</label>
+		<label>Shamanistic symbols and shavings.</label>
+		<label>No words just a single colour.</label>
+		<label>Water damage but a just legibale label.</label>
+		<label>A label as if it was some kind of present.</label>
+		<label>A label showing how many calories it is.</label>
+		<label>A warning about potion abuse and to only take in moderation.
+		</label>
+		<label>A label with warnings and side effects all scribbled out.
+		</label>
+		<label>That only shows the side effects.</label>
+		<label>A mysterious number.</label>
+		<label>A code name.</label>
+		<label>A few unrelated letters.</label>
+		<label>The name of one of the party members.</label>
+		<label>The name of the bad guy.</label>
+		<label>Crawling with bugs.</label>
+		<label>Covered in something unspeakable.</label>
+		<label>Covered in glitter. It gets everywhere.</label>
+	</labels>
+
+</potion>
